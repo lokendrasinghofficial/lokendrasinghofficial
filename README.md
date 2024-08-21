@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lokendra Singh
 - 👀 I’m interested in making websites
-- 🌱 I’m currently learning java
 - 📫 instagram:- https://www.instagram.com/lokendra_choudhary8279/
 
 <!---

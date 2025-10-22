@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Lokendra Singh
-- 👀 I’m interested in making websites
-- 📫 instagram:- https://www.instagram.com/lokendra_choudhary8279/
 
 <!---
 lokendrasinghofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
